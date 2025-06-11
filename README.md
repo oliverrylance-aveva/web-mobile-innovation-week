@@ -2,6 +2,8 @@
 
 This monorepo contains a full-stack application with a backend API (Node.js/Express/Prisma) and a cross-platform mobile app (Expo/React Native). The backend manages a simple list of items stored in a SQLite database, and the mobile app allows users to view and add items.
 
+I have had the opportunity to explore and work with this technology stack as part of the quarterly "Innovation Week" at AVEVA, my Placement Internship Company.
+
 ## Project Structure
 
 ```
